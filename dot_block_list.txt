@@ -197,3 +197,17 @@
 0.0.0.0	y3.mylivecricket.biz
 0.0.0.0	y4.mylivecricket.biz
 0.0.0.0	yifytorrent.vip
+
+# Block List as per DoT and Court Orders
+# Updated Date 18.05.2022
+0.0.0.0 bbbwikjookjnmajsmm.xyz
+0.0.0.0 apkliker.net
+0.0.0.0 apkmart.net
+0.0.0.0 apkmond.com
+0.0.0.0 apkmentor.net
+0.0.0.0 nextalerts.com
+0.0.0.0 picashows.xyz
+0.0.0.0 aaavdgfhkjh.xyz
+0.0.0.0 globalnewsgeeks.xyz
+0.0.0.0 rtstv.rf.gd
+0.0.0.0 unileverr1.in
