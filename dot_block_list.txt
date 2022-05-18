@@ -200,6 +200,7 @@
 
 # Block List as per DoT and Court Orders
 # Updated Date 18.05.2022
+
 0.0.0.0 bbbwikjookjnmajsmm.xyz
 0.0.0.0 apkliker.net
 0.0.0.0 apkmart.net
