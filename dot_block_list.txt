@@ -212,3 +212,44 @@
 0.0.0.0 globalnewsgeeks.xyz
 0.0.0.0 rtstv.rf.gd
 0.0.0.0 unileverr1.in
+
+# Block List as per DoT and Court Orders
+# Updated Date 20.05.2022
+0.0.0.0 hugobossindia.co.in
+0.0.0.0 hugobossoutletindia.co.in
+0.0.0.0 hugobossfranch.fr
+0.0.0.0 hugobosssale.me
+0.0.0.0 hugobosspl.pl
+0.0.0.0 hugobossfr.fr
+0.0.0.0 hugobossoutletireland.com
+0.0.0.0 hugosaleaustralia.com
+0.0.0.0 hugobossphilippines.com
+0.0.0.0 hugobosshungary.me
+0.0.0.0 hugobossoutletportugal.biz
+0.0.0.0 hugobossespana.me
+0.0.0.0 hugobossoutletgreece.biz
+0.0.0.0 hugobosssuomi.me
+0.0.0.0 hugobosspolska.me
+0.0.0.0 hugobossalenz.top
+0.0.0.0 hugobosscanada.me
+0.0.0.0 hugobosscz.me
+0.0.0.0 hugobossromania.co
+0.0.0.0 hugobossromania.ro
+0.0.0.0 hugobossmexico.co
+0.0.0.0 hugobossdenmark.org
+0.0.0.0 hugobossdanmark.co
+0.0.0.0 hugobosssale.co
+0.0.0.0 hugobosscanada.org
+0.0.0.0 hugobosscz.cz
+0.0.0.0 hugobossireland.co
+0.0.0.0 hugobossslovensko.top
+0.0.0.0 hugobossaustria.com
+0.0.0.0 hugoschweiz.com
+0.0.0.0 hugobosssouthafrica.com
+0.0.0.0 hugobossdecolombia.com
+0.0.0.0 hugobosscolombia.top
+0.0.0.0 hugoboss-malaysia.com
+0.0.0.0 hugoboss-schweiz.com
+0.0.0.0 hugobossargentinaropa.com
+0.0.0.0 hugobossrabatt.at
+0.0.0.0 hugobossdeoutlet.de
