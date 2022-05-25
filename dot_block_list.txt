@@ -253,3 +253,6 @@
 0.0.0.0 hugobossargentinaropa.com
 0.0.0.0 hugobossrabatt.at
 0.0.0.0 hugobossdeoutlet.de
+# letter dated 24-05-2022 for compliance of order dated 27-08-2021 in the CS (COMM) No. 399 of 2021
+# Updated Date 20.05.2022
+0.0.0.0 hulfranchise.co.in
