@@ -314,3 +314,19 @@
 #Dated:10-06-2022
 0.0.0.0 lrw.co.in
 0.0.0.0 lrworld.co.in
+
+#No. 813-07/LM-13/2021-DS-II 
+#Dated:03-06-2022
+0.0.0.0 ck99tnetwork.xyz
+
+#No. 813-07/LM-13/2022-DS-II 
+#Dated:26-05-2022
+
+0.0.0.0 nikavpnapp.xyz
+0.0.0.0 thetigertv.com
+0.0.0.0 prod-fastly-ap-southeast-1.e40x.xyz
+0.0.0.0 prod-fastly-ap-southeast-1.e5xx.xyz
+0.0.0.0 hdstreamz.me
+0.0.0.0 ccccbfhdgfkjllssa.xyz
+0.0.0.0 globalgeeps.xyz
+
