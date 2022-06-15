@@ -256,3 +256,14 @@
 # letter dated 24-05-2022 for compliance of order dated 27-08-2021 in the CS (COMM) No. 399 of 2021
 # Updated Date 20.05.2022
 0.0.0.0 hulfranchise.co.in
+
+#No.813-7/25/2011-DS (Vol.-IX)/1 
+#Dated:10-05-2022
+
+0.0.0.0 haryanabanaygakhalistan.info
+0.0.0.0 haryanabanaygakhalistan.info
+0.0.0.0 khalistanfunds2aap.net
+0.0.0.0 khalistanfunds2aap.net
+0.0.0.0 voter25.org
+0.0.0.0 battleofamritsar.com
+0.0.0.0 khalistan.org
