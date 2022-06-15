@@ -329,9 +329,8 @@
 0.0.0.0 hdstreamz.me
 0.0.0.0 ccccbfhdgfkjllssa.xyz
 0.0.0.0 globalgeeps.xyz
-#No. 813-07/LM-36/2021-DS-II 
-#Dated: 02-06-2022
-
+# No. 813-07/LM-36/2021-DS-II 
+# Dated: 02-06-2022
 0.0.0.0	1tamilmv.fans
 0.0.0.0	3kmovies.lol
 0.0.0.0	7movierulz.cam
@@ -370,9 +369,9 @@
 0.0.0.0	themovieslab.live
 0.0.0.0	vegamovies.cam
 0.0.0.0	world4ufree1.icu
-0.0.0.0	wvw11.movierulz4k.com
-0.0.0.0	ww2.watchmovierulz.live
-0.0.0.0	ww8.7movierulz.lt
-0.0.0.0	wwv4.7moviesrulz.com
-0.0.0.0	www14.moviesrulz.net
+0.0.0.0	11.movierulz4k.com
+0.0.0.0	2.watchmovierulz.live
+0.0.0.0	8.7movierulz.lt
+0.0.0.0	4.7moviesrulz.com
+0.0.0.0	14.moviesrulz.net
 0.0.0.0	yomovies.ws
